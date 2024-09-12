@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Victor 👋
+and I'm a Systems Engineer by profession and AI researcher with a great passion for technology and education!
 
-<!--
-**Root1V/Root1V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently Lead Architect at [BBVA Bank](https://www.bbva.pe) and work at the intersection of software architecture, Core Banking and software development.
+- ⚡️ Previously, I was IT Architect of focused on proposing solutions with SOA, microservices, FaaS (functions as services), serverless and Cloud Computing.
+- ❤️‍🔥 I love researching disruptive technologies like AI and am specializing in Deep Learning and large language models (LLM).
+- 💯 But most of all, I am a passionate architect and programmer who loves designing solutions, open source software and researching.
 
-Here are some ideas to get you started:
+------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are interested in more details, check out my **socials** networks !
+
+- 👨‍💻 Twitter ([@VEspirituS](https://x.com/VEspirituS))
+- 🖇️ LinkedIn ([@in/victor-espiritu-santiago](https://www.linkedin.com/in/victor-espiritu-santiago-89873782/))
+
