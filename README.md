@@ -1,58 +1,124 @@
 # Hi, I'm Victor 👋
 
-### AI & Cloud Architecture Leader | Systems Engineer | AI Researcher
+### Lead of AI & Cloud Architecture | Enterprise Architect | AI Researcher
 
-Passionate about driving technological transformation through innovative architecture solutions, artificial intelligence, and cloud technologies. I lead teams to build scalable, secure, and cutting-edge solutions in the financial sector.
+Senior technology leader with **+13 years of experience** in software architecture, enterprise solutions, and digital transformation. Currently leading AI & Cloud Architecture initiatives in the financial sector, with a strong trajectory from hands-on development to enterprise architecture leadership.
 
 ---
 
 ## 🚀 About Me
 
 - 🏦 **Lead of AI & Cloud Architecture** at [BBVA Bank](https://www.bbva.pe) — Leading the team responsible for defining and implementing the bank's AI and Cloud architecture strategy.
-- 🎯 Driving the adoption of **Generative AI**, **LLMs**, and **Cloud-native solutions** across the organization.
-- 🔬 Focused on building robust architectures that integrate **Machine Learning**, **MLOps**, and **modern cloud platforms**.
+- 🎯 Driving the adoption of **AI Agents**, **LLMs**, and **Cloud-native solutions** across the organization.
+- 🔬 Focused on building robust architectures that integrate **Deep Learning**, **LLMOps**, and **modern cloud platforms**.
+- 🧪 Passionate about **continuous research** — constantly exploring new LLMs, frameworks, and emerging paradigms.
+- 📈 Evolving towards **Enterprise Architecture**, aligning technology strategy with business goals.
 
 ## 💼 Experience
 
 | Role | Focus Areas |
 |------|-------------|
 | **Current: Lead of AI & Cloud Architecture** | AI Strategy, Cloud Architecture, Team Leadership, Digital Transformation |
-| **Previous: Manager of Architect** | Core Banking, Software Architecture, Enterprise Solutions |
+| **Previous: Manager of Architects** | Core Banking, Software Architecture, Enterprise Solutions |
 | **Previous: IT Architect** | SOA, Microservices, FaaS, Serverless, Cloud Computing |
+| **Foundation: Software Developer** | Java, C#, PHP, Python — Solid development background that informs my architecture decisions |
+
+> 💡 *While I transitioned from developer to architect, my hands-on experience across multiple languages and paradigms remains fundamental to designing practical, implementable solutions.*
+
+---
+
+## 🏛️ Architecture Frameworks & Patterns
+
+**Enterprise Architecture**
+![TOGAF](https://img.shields.io/badge/TOGAF-0066CC?style=flat&logo=blueprint&logoColor=white)
+![Enterprise Architecture](https://img.shields.io/badge/Enterprise_Architecture-4A154B?style=flat&logo=diagram&logoColor=white)
+
+**Integration & Architecture Patterns**
+![SOA](https://img.shields.io/badge/SOA-FF6B35?style=flat&logo=apache&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Event_Driven-00ADD8?style=flat&logo=eventbrite&logoColor=white)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-6B4FBB?style=flat&logo=eventstore&logoColor=white)
+![EIP](https://img.shields.io/badge/EIP-Integration_Patterns-E34F26?style=flat&logo=apache&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=fastify&logoColor=white)
+
+---
 
 ## 🛠️ Tech Stack & Expertise
 
-**Architecture & Cloud**
+**Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-**Development & Architecture**
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=fastify&logoColor=white)
-![API](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+
+**AI Agents & LLM Frameworks**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D3748?style=flat&logo=graphql&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=flat&logo=robot&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logo=datadog&logoColor=white)
+![LLM Guard](https://img.shields.io/badge/LLM_Guard-DC382D?style=flat&logo=shield&logoColor=white)
+
+**Deep Learning & LLMOps**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-Local_Inference-7C3AED?style=flat&logo=meta&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-00ADD8?style=flat&logo=mlflow&logoColor=white)
+
+**Development Background**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
+
+---
 
 ## 🎯 Core Competencies
 
-- 🧠 **AI Architecture** — Designing enterprise-grade AI solutions, RAG systems, and LLM integrations
+- 🏛️ **Enterprise Architecture** — TOGAF-aligned approach, bridging technology and business strategy
+- 🧠 **AI Architecture** — Designing agentic systems, RAG architectures, multi-agent patterns, and LLM integrations
+- 🔬 **Autonomous Systems** — *Currently in research & experimentation phase* — Exploring self-orchestrating AI agents and multi-agent patterns
 - ☁️ **Cloud Strategy** — Multi-cloud architecture, cost optimization, and cloud-native development
+- 🔗 **Integration Patterns** — SOA, EDA, Event Sourcing, EIP for complex enterprise systems
 - 👥 **Technical Leadership** — Building and mentoring high-performance architecture teams
-- 🏗️ **Enterprise Architecture** — Scalable solutions for banking and financial services
-- 🔐 **Security & Compliance** — Implementing secure architectures in regulated industries
+- 🔐 **Security & Compliance** — Implementing secure architectures in regulated industries (LLM Guard, guardrails)
+
+---
+
+## 🔬 Research, Exploration & Experimentation
+
+> 🧪 *I'm constantly exploring, experimenting, and staying at the forefront of emerging AI technologies. This section reflects my ongoing research — not production implementations.*
+
+**🤖 Multi-Agent & Autonomous Systems** *(Active Research)*
+- Exploring patterns for autonomous agent collaboration and orchestration
+- Experimenting with self-improving systems using LangGraph, AutoGen, and CrewAI
+- Investigating multi-agent architectures for complex problem-solving
+
+**🧠 Emerging LLMs & Frameworks** *(Continuous Exploration)*
+- Evaluating new foundation models as they emerge (open-source and proprietary)
+- Testing cutting-edge frameworks and libraries for agentic AI
+- Experimenting with new paradigms: reasoning models, tool-use patterns, and memory systems
+
+**🖥️ Local & On-Premise Inference** *(Experimentation)*
+- Deploying LLMs locally with llama.cpp and llama-server for privacy-sensitive use cases
+- Benchmarking quantization techniques and inference optimization
+
+**📊 LLMOps & Observability** *(Research & POCs)*
+- Building proof-of-concepts for production-grade LLM pipelines
+- Exploring observability patterns with Langfuse and similar tools
+
+**🛡️ AI Safety & Guardrails** *(Ongoing Study)*
+- Researching responsible AI implementation with llm-guard
+- Exploring security patterns and safety mechanisms for LLM applications
+
+---
 
 ## ❤️‍🔥 Passions
 
 - 📚 Continuous learning and researching disruptive technologies
-- 🤖 Deep Learning, Large Language Models (LLMs), and Generative AI
+- 🤖 Deep Learning, AI Agents, and Autonomous Systems
 - 🌐 Open source software and knowledge sharing
 - 🎓 Technology education and mentoring
 
