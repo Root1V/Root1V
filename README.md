@@ -8,7 +8,7 @@ Senior technology leader with **+13 years of experience** in software architectu
 
 ## 🚀 About Me
 
-- 🏦 **Lead of AI & Cloud Architecture** at [BBVA Bank](https://www.bbva.pe) — Leading the team responsible for defining and implementing the bank's AI and Cloud architecture strategy.
+- 🏦 **Lead of AI & Cloud Architecture** at [BBVA Bank](https://www.bbva.pe) — Leading the team responsible for defining, designing and implementing the bank's AI and Cloud architecture strategy.
 - 🎯 Driving the adoption of **AI Agents**, **LLMs**, and **Cloud-native solutions** across the organization.
 - 🔬 Focused on building robust architectures that integrate **Deep Learning**, **LLMOps**, and **modern cloud platforms**.
 - 🧪 Passionate about **continuous research** — constantly exploring new LLMs, frameworks, and emerging paradigms.
