@@ -18,12 +18,12 @@ Senior technology leader with **+13 years of experience** in software architectu
 
 | Role | Focus Areas |
 |------|-------------|
-| **Current: Lead of AI & Cloud Architecture** | AI Strategy, Cloud Architecture, Team Leadership, Digital Transformation |
-| **Previous: Manager of Architects** | Core Banking, Software Architecture, Enterprise Solutions |
+| **Current: Lead of AI & Cloud Architecture** | AI Strategy, Cloud Architecture, Team Leadership, Technological Transformation, AI-Driven Bank|
+| **Previous: Manager of Architects** | Core Banking, Service Architecture, Software Architecture, Enterprise Solutions |
 | **Previous: IT Architect** | SOA, Microservices, FaaS, Serverless, Cloud Computing |
 | **Foundation: Software Developer** | Java, C#, PHP, Python — Solid development background that informs my architecture decisions |
 
-> 💡 *While I transitioned from developer to architect, my hands-on experience across multiple languages and paradigms remains fundamental to designing practical, implementable solutions.*
+> 💡 *While I transitioned from developer to architect, my hands-on experience across multiple projects and technological paradigms remains fundamental to designing practical, implementable solutions.*
 
 ---
 
@@ -48,7 +48,6 @@ Senior technology leader with **+13 years of experience** in software architectu
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 
@@ -71,7 +70,6 @@ Senior technology leader with **+13 years of experience** in software architectu
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
@@ -83,7 +81,7 @@ Senior technology leader with **+13 years of experience** in software architectu
 - ☁️ **Cloud Strategy** — Multi-cloud architecture, cost optimization, and cloud-native development
 - 🔗 **Integration Patterns** — SOA, EDA, Event Sourcing, EIP for complex enterprise systems
 - 👥 **Technical Leadership** — Building and mentoring high-performance architecture teams
-- 🔐 **Security & Compliance** — Implementing secure architectures in regulated industries (LLM Guard, guardrails)
+- 🔐 **Security & Compliance** — Implementing secure architectures in regulated industries (LLM Guard, guardrails, JWT, OAuth, Criptography)
 
 ---
 
@@ -93,24 +91,24 @@ Senior technology leader with **+13 years of experience** in software architectu
 
 **🤖 Multi-Agent & Autonomous Systems** *(Active Research)*
 - Exploring patterns for autonomous agent collaboration and orchestration
-- Experimenting with self-improving systems using LangGraph, AutoGen, and CrewAI
+- Experimenting with self-improving systems using LangGraph, AutoGen, and CrewAI, MCP, A2A, A2P.
 - Investigating multi-agent architectures for complex problem-solving
 
 **🧠 Emerging LLMs & Frameworks** *(Continuous Exploration)*
-- Evaluating new foundation models as they emerge (open-source and proprietary)
+- Evaluating new foundation models as they emerge (open-source and proprietary) like minimax and HRM.
 - Testing cutting-edge frameworks and libraries for agentic AI
-- Experimenting with new paradigms: reasoning models, tool-use patterns, and memory systems
+- Experimenting with new paradigms: reasoning models, tool-use patterns, and memory systems (context, short and long)
 
 **🖥️ Local & On-Premise Inference** *(Experimentation)*
-- Deploying LLMs locally with llama.cpp and llama-server for privacy-sensitive use cases
-- Benchmarking quantization techniques and inference optimization
+- Deploying LLMs locally with llama.cpp and llama-server for privacy-sensitive use cases with security APIs and LLM Gateway.
+- Benchmarking quantization techniques and inference optimization (Q4, Q5 and Q6)
 
 **📊 LLMOps & Observability** *(Research & POCs)*
 - Building proof-of-concepts for production-grade LLM pipelines
-- Exploring observability patterns with Langfuse and similar tools
+- Exploring observability patterns with Langfuse and similar tools (sesions, trace, span, logs)
 
 **🛡️ AI Safety & Guardrails** *(Ongoing Study)*
-- Researching responsible AI implementation with llm-guard
+- Researching responsible AI implementation with llm-guard (masking, scanner) and LLM-as-a-judge.
 - Exploring security patterns and safety mechanisms for LLM applications
 
 ---
@@ -132,6 +130,6 @@ Senior technology leader with **+13 years of experience** in software architectu
 ---
 
 <p align="center">
-  <i>"Architecture is not just about technology—it's about enabling business transformation through thoughtful design."</i>
+  <i>"Architecture is not just about technology—it's about enabling business transformation through thoughtful design and innovation."</i>
 </p>
 
