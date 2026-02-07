@@ -2,7 +2,7 @@
 
 ### Lead of AI & Cloud Architecture | Enterprise Architect | AI Researcher
 
-Senior technology leader with **+13 years of experience** in software architecture, enterprise solutions, and digital transformation. Currently leading AI & Cloud Architecture initiatives in the financial sector, with a strong trajectory from hands-on development to enterprise architecture leadership.
+Senior technology leader with **+13 years of experience** in software architecture, enterprise solutions, and technological transformation. Currently leading AI & Cloud Architecture initiatives in the financial sector, with a strong trajectory from hands-on development to enterprise architecture leadership.
 
 ---
 
