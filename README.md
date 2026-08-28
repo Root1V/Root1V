@@ -1,135 +1,103 @@
-# Hi, I'm Victor 👋
+# Emeric Victor Espiritu Santiago
 
-### Lead of AI & Cloud Architecture | Enterprise Architect | AI Researcher
+**AI & Enterprise Architect** specialized in designing scalable, cloud-native and agentic AI architectures — bridging business strategy, emerging AI technology, and enterprise execution.
 
-Senior technology leader with **+13 years of experience** in software architecture, enterprise solutions, and technological transformation. Currently leading AI & Cloud Architecture initiatives in the financial sector, with a strong trajectory from hands-on development to enterprise architecture leadership.
+At BBVA I lead the definition of the bank's AI & Cloud architecture strategy — sitting at the intersection of business strategy, technology architecture, and innovation, not just implementation. 13+ years moving from software developer → IT architect → architecture manager → AI & Enterprise Architecture lead gives me both the boardroom fluency to align AI initiatives with business goals and the hands-on depth to prototype what I propose before asking a team to build it (see Featured Projects — my public lab; most of my enterprise architecture work at BBVA is confidential).
 
----
+## 💼 Career Path
 
-## 🚀 About Me
-
-- 🏦 **Lead of AI & Cloud Architecture** at [BBVA Bank](https://www.bbva.pe) — Leading the team responsible for defining, designing and implementing the bank's AI and Cloud architecture strategy.
-- 🎯 Driving the adoption of **AI Agents**, **LLMs**, and **Cloud-native solutions** across the organization.
-- 🔬 Focused on building robust architectures that integrate **Deep Learning**, **LLMOps**, **Agents**, **modern AI and cloud platforms**.
-- 🧪 Passionate about **continuous research** — constantly exploring new LLMs, frameworks, and emerging paradigms.
-- 📈 Evolving towards **Enterprise Architecture**, aligning technology strategy with business goals.
-
-## 💼 Experience
-
-| Role | Focus Areas |
-|------|-------------|
-| **Current: Lead of AI & Cloud Architecture** | AI Strategy, Cloud Architecture, Team Leadership, Technological Transformation, AI-Driven Bank|
-| **Previous: Manager of Architects** | Core Banking, Service Architecture, Software Architecture, Enterprise Solutions |
-| **Previous: IT Architect** | SOA, Microservices, FaaS, Serverless, Cloud Computing |
-| **Foundation: Software Developer** | Java, C#, PHP, Python — Solid development background that informs my architecture decisions |
-
-> 💡 *While I transitioned from developer to architect, my hands-on experience across multiple projects and technological paradigms remains fundamental to designing practical, implementable solutions.*
+| Stage | Focus |
+|---|---|
+| **Now — AI & Enterprise Architecture Lead** | AI strategy, agentic & cloud-native architecture, business-technology alignment, team leadership |
+| **Manager of Architects** | Core banking, service architecture, enterprise solutions across business units |
+| **IT Architect** | SOA, microservices, FaaS/serverless, cloud computing |
+| **Software Developer** (foundation) | Java, C#, PHP, Python — the hands-on base my architecture decisions still draw on |
 
 ---
 
-## 🏛️ Architecture Frameworks & Patterns
+## 🚀 Featured Projects
 
-**Enterprise Architecture**
-![TOGAF](https://img.shields.io/badge/TOGAF-0066CC?style=flat&logo=blueprint&logoColor=white)
-![Enterprise Architecture](https://img.shields.io/badge/Enterprise_Architecture-4A154B?style=flat&logo=diagram&logoColor=white)
+| Project | What it does |
+|---|---|
+| [**ai-video-dubbing-pipeline**](https://github.com/Root1V/ai-video-dubbing-pipeline) | 100% local, open-source video dubbing (EN→ES): Whisper transcription, pyannote speaker diarization, context-aware LLM translation, per-speaker voice cloning. No paid APIs. |
+| [**prometheus-inference-platform**](https://github.com/Root1V/prometheus-inference-platform) | Self-hosted LLM inference gateway — JWT auth with per-model scopes, rate limiting/circuit breakers, multi-backend routing (llama.cpp/MLX/vLLM/SGLang) across distributed hosts, full OTel tracing. |
+| [**agentic-doc-intelligence-platform**](https://github.com/Root1V/agentic-doc-intelligence-platform) | Document intelligence for payslips/insurance docs: bounded ReAct extraction loop, 6-category deterministic validation, pluggable OCR, full observability. |
+| [**synaptum-framework**](https://github.com/Root1V/synaptum-framework) | Minimal, bus-driven framework for multi-agent orchestration — decoupled messaging and versioned prompts, vendor-neutral by design. |
+| [**axonium-sdk**](https://github.com/Root1V/axonium-sdk) | Python SDK for llama-server: auth, token rotation, PII masking, and Langfuse observability for production LLM systems. |
 
-**Integration & Architecture Patterns**
+*(These are my public lab — where I test the AI architecture ideas I take into BBVA. Pinned on my profile; check the repo list for more.)*
+
+---
+
+## 🛠️ Tech Stack
+
+**Building hands-on** — evidenced in the projects above
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-Local_Inference-7C3AED?style=flat&logo=meta&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-00A98F?style=flat&logo=vllm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%2FPodman-2496ED?style=flat&logo=docker&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logo=datadog&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
+
+**Applying at architecture & leadership level** — real professional experience, not shown in public code
+![TOGAF](https://img.shields.io/badge/TOGAF-0066CC?style=flat&logoColor=white)
+![Enterprise Architecture](https://img.shields.io/badge/Enterprise_Architecture-4A154B?style=flat&logoColor=white)
 ![SOA](https://img.shields.io/badge/SOA-FF6B35?style=flat&logo=apache&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-Event_Driven-00ADD8?style=flat&logo=eventbrite&logoColor=white)
-![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-6B4FBB?style=flat&logo=eventstore&logoColor=white)
-![EIP](https://img.shields.io/badge/EIP-Integration_Patterns-E34F26?style=flat&logo=apache&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=fastify&logoColor=white)
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-**Cloud & Infrastructure**
+![EDA](https://img.shields.io/badge/EDA-00ADD8?style=flat&logoColor=white)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-6B4FBB?style=flat&logoColor=white)
+![EIP](https://img.shields.io/badge/EIP-E34F26?style=flat&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
-
-**AI Agents & LLM Frameworks**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D3748?style=flat&logo=graphql&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=flat&logo=robot&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logo=datadog&logoColor=white)
-![LLM Guard](https://img.shields.io/badge/LLM_Guard-DC382D?style=flat&logo=shield&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=flat&logoColor=white)
 
-**Deep Learning & LLMOps**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-Local_Inference-7C3AED?style=flat&logo=meta&logoColor=white)
-![LLMOps](https://img.shields.io/badge/LLMOps-00ADD8?style=flat&logo=mlflow&logoColor=white)
-
-**Development Background**
+**Foundation** — earlier career
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## 🎯 Core Competencies
 
-- 🏛️ **Enterprise Architecture** — TOGAF-aligned approach, bridging technology and business strategy
-- 🧠 **AI Architecture** — Designing agentic systems, RAG architectures, multi-agent patterns, and LLM integrations
-- 🔬 **Autonomous Systems** — *Currently in research & experimentation phase* — Exploring self-orchestrating AI agents and multi-agent patterns
-- ☁️ **Cloud Strategy** — Multi-cloud architecture, cost optimization, and cloud-native development
-- 🔗 **Integration Patterns** — SOA, EDA, Event Sourcing, EIP for complex enterprise systems
-- 👥 **Technical Leadership** — Building and mentoring high-performance architecture teams
-- 🔐 **Security & Compliance** — Implementing secure architectures in regulated industries (LLM Guard, guardrails, JWT, OAuth, Criptography)
+- 🏛️ **Enterprise Architecture** — TOGAF-aligned strategy, bridging technology and business goals across a regulated financial institution.
+- 🧠 **AI & Agentic Architecture** — designing agentic systems, RAG/hybrid retrieval, multi-agent patterns, and LLM integration strategy — from proof-of-concept to enterprise rollout.
+- ☁️ **Cloud Strategy** — multi-cloud architecture (AWS/Azure/GCP), cost optimization, and cloud-native/serverless design.
+- 🔗 **Integration Patterns** — SOA, EDA, Event Sourcing, EIP for complex, high-availability enterprise systems.
+- 🖥️ **Hands-on LLM infrastructure** — self-hosted inference gateways, multi-backend routing, quantization (Q4/Q5/Q6) — demonstrated in shipped open-source projects.
+- 🔐 **Security & Compliance** — secure architectures for regulated industries: JWT/RBAC, PII masking, guardrails, cryptography.
+- 👥 **Technical Leadership** — building and mentoring the team that defines BBVA's AI & Cloud architecture strategy.
 
 ---
 
-## 🔬 Research, Exploration & Experimentation
+## 🔭 Currently Exploring
 
-> 🧪 *I'm constantly exploring, experimenting, and staying at the forefront of emerging AI technologies. This section reflects my ongoing research — not production implementations.*
+**Already applying, going deeper on:**
+- Multi-agent orchestration at enterprise scale, and what "AI-native" enterprise architecture looks like when agents — not services — are the unit of design.
+- Small language models & edge/local inference as a deliberate strategy, not just a cost hack.
 
-**🤖 Multi-Agent & Autonomous Systems** *(Active Research)*
-- Exploring patterns for autonomous agent collaboration and orchestration
-- Experimenting with self-improving systems using LangGraph, AutoGen, and CrewAI, MCP, A2A, A2P.
-- Investigating multi-agent architectures for complex problem-solving
-
-**🧠 Emerging LLMs & Frameworks** *(Continuous Exploration)*
-- Evaluating new foundation models as they emerge (open-source and proprietary) like minimax and HRM.
-- Testing cutting-edge frameworks and libraries for agentic AI
-- Experimenting with new paradigms: reasoning models, tool-use patterns, and memory systems (context, short and long)
-
-**🖥️ Local & On-Premise Inference** *(Experimentation)*
-- Deploying LLMs locally with llama.cpp and llama-server for privacy-sensitive use cases with security APIs and LLM Gateway.
-- Benchmarking quantization techniques and inference optimization (Q4, Q5 and Q6)
-
-**📊 LLMOps & Observability** *(Research & POCs)*
-- Building proof-of-concepts for production-grade LLM pipelines
-- Exploring observability patterns with Langfuse and similar tools (sesions, trace, span, logs)
-
-**🛡️ AI Safety & Guardrails** *(Ongoing Study)*
-- Researching responsible AI implementation with llm-guard (masking, scanner) and LLM-as-a-judge.
-- Exploring security patterns and safety mechanisms for LLM applications
+**Actively studying — genuine gaps I'm closing, relevant to banking/regulated AI:**
+- Agent identity, governance & audit-trail frameworks for autonomous systems.
+- EU AI Act & DORA compliance requirements for agentic architectures in financial services.
+- FinOps for AI — GPU/token cost governance at production scale.
+- Context engineering as a discipline distinct from RAG.
+- Sovereign AI & data-residency patterns for regulated, multi-region deployments.
 
 ---
 
 ## ❤️‍🔥 Passions
 
-- 📚 Continuous learning and researching disruptive technologies
-- 🤖 Deep Learning, AI Agents, and Autonomous Systems
-- 🌐 Open source software and knowledge sharing
-- 🎓 Technology education and mentoring
+Continuous learning, open-source AI tooling, and mentoring engineers moving from development into architecture.
 
 ---
 
 ## 📫 Let's Connect
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/VEspirituS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-espiritu-santiago-89873782/)
-
----
-
-<p align="center">
-  <i>"Architecture is not just about technology—it's about enabling business transformation through thoughtful design and innovation."</i>
-</p>
-
+[LinkedIn](https://www.linkedin.com/in/victor-espiritu-santiago-89873782/) · [Twitter/X](https://x.com/VEspirituS)
